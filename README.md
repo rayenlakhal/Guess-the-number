@@ -10,7 +10,7 @@ A basic c++ game you can run with terminal on linux
 
 ![Terminal](https://github.com/rayenlakhal/Guess-the-number/blob/main/Screenshot%20from%202022-12-29%2018-04-25.png?raw=true)
 
-3- Input `./linuxsay`
+3- Input `./guess`
 
 4- Input your number
 
