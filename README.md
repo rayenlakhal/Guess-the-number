@@ -18,7 +18,7 @@ A basic c++ game you can run with terminal on linux
 
 5- have fun
 
-![Terminal]([https://github.com/rayenlakhal/Linuxsay/blob/main/Screenshot%20from%202022-12-29%2016-30-41.png?raw=true](https://github.com/rayenlakhal/Guess-the-number/blob/main/Screenshot%20from%202022-12-29%2018-06-24.png?raw=true)
+![Terminal](https://github.com/rayenlakhal/Guess-the-number/blob/main/Screenshot%20from%202022-12-29%2018-06-24.png?raw=true)
 
 ![Terminal](https://github.com/rayenlakhal/Guess-the-number/blob/main/Screenshot%20from%202022-12-29%2018-07-17.png?raw=true)
 
